@@ -2,6 +2,17 @@
 
 Rebellion is an Extinction Rebellion Jekyll theme. 
 
+Sites using the Rebellion theme:
+
+* https://www.xryork.org.uk
+* https://www.xryouth.uk
+* https://freedomtour.uk
+* https://barbican.earth
+* https://acabooks.org.uk
+* https://rebelsinprison.uk
+
+Using the Rebellion theme? Let me know to get your site added to the list.
+
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
